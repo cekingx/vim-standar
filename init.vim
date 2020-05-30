@@ -19,7 +19,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-commentary'
-Plug 'jiangmiao/auto-pairs'
+Plug 'udalov/kotlin-vim'
 
 call plug#end()
 
